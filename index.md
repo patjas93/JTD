@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 <!-- Example of title -->
 This is title<!-- omit in toc -->
 ===========================================
