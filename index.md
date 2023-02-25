@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 <!-- Example of title -->
-This is title<!-- omit in toc -->
-===========================================
+# This is title<!-- omit in toc -->
+
 
 <!-- Here comes the table of content -->
 Table of content
